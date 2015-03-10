@@ -20,11 +20,7 @@ public class Event {
 	public String toString() {
 		return "Event [title=" + title + "]";
 	}
-	
-	
-	
-	
-	
+	// Salut
 	
 	
 	
