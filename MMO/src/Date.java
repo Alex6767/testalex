@@ -8,12 +8,10 @@ public class Date {
 	 * Jour 
 	 */
 	int jour ;
-	
 	/**
 	 * mois
 	 */
 	int mois ;
-	
 	/**
 	 * année
 	 */

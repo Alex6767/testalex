@@ -67,7 +67,7 @@ public class CompteBancaire {
 		str = nom + " " + prenom + " possède " + " la carte numéro " + numero + " qui expire le " + dateExperitation.toString() ;
 		
 		return str ;
-		System.out.println("ntm");
+		
 	}
 	
 	
